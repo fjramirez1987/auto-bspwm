@@ -33,7 +33,7 @@ chmod +x setup.sh
 6. Put keyboard layout in Spanish
 
 ```shell
-setxkbmap latam
+setxkbmap -layout es
 ```
 
 ## Overview of the environment
