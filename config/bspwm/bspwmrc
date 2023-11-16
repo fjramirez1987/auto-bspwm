@@ -29,3 +29,5 @@ feh --bg-fill ~/Wallpaper/archkali.png &
 ~/.config/polybar/./launch.sh --shapes &
 picom --config ~/.config/picom/picom.conf &
 wal -R
+
+setxkbmap -layout es
